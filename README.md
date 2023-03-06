@@ -88,7 +88,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 
 ## Author
 
-[Simon Modise](www.github.com/mezaya)
+[Simon Modise](www.github.com/Mezaya)
 
 ## Resources
 
